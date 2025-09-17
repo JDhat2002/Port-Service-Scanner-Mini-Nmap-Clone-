@@ -1,4 +1,6 @@
 # 🔎 Mini Port & Service Scanner
+![Tests](https://github.com/JDhat2002/Port-Service-Scanner-Mini-Nmap-Clone/actions/workflows/python-tests.yml/badge.svg)
+
 
 A lightweight **asynchronous TCP port scanner** (mini Nmap clone) built in Python.  
 Perfect for learning networking fundamentals, concurrency, and banner grabbing.
