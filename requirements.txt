@@ -1,0 +1,7 @@
+# Core scanner runs on Python standard library (>=3.10)
+
+# Optional: GUI for interactive demo
+streamlit>=1.36
+
+# Optional: testing
+pytest>=8.0
